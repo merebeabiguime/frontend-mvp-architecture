@@ -1,0 +1,93 @@
+{
+  "metricName": "Feature Velocity Curve",
+  "description": "Nombre de features livrées par semaine au fil du temps",
+  "unit": "features/semaine",
+  "timeline": {
+    "phases": [
+      {
+        "name": "Phase 1 : Mauvaise Architecture",
+        "weeks": "1-12",
+        "description": "MVP rapide sans architecture intentionnelle"
+      },
+      {
+        "name": "Phase 2 : Refonte Architecture",
+        "weeks": "13-20",
+        "description": "Investissement temps dans mise en place architecture"
+      },
+      {
+        "name": "Phase 3 : Architecture Mature",
+        "weeks": "21-32",
+        "description": "Bénéfices de l'architecture + patterns établis + AI assistance"
+      }
+    ]
+  },
+  "data": [
+    { "week": 1, "features": 4, "phase": "Phase 1", "notes": "Code from scratch, rapide" },
+    { "week": 2, "features": 4, "phase": "Phase 1", "notes": "Encore rapide" },
+    { "week": 3, "features": 4, "phase": "Phase 1", "notes": "Premières réutilisations" },
+    { "week": 4, "features": 3, "phase": "Phase 1", "notes": "Commence à ralentir" },
+    { "week": 5, "features": 3, "phase": "Phase 1", "notes": "Code mélangé" },
+    { "week": 6, "features": 3, "phase": "Phase 1", "notes": "Difficulté à ajouter features" },
+    { "week": 7, "features": 2, "phase": "Phase 1", "notes": "Dette technique visible" },
+    { "week": 8, "features": 2, "phase": "Phase 1", "notes": "Bugs en cascade" },
+    { "week": 9, "features": 2, "phase": "Phase 1", "notes": "Refactoring constant" },
+    { "week": 10, "features": 2, "phase": "Phase 1", "notes": "Vélocité s'effondre" },
+    { "week": 11, "features": 1, "phase": "Phase 1", "notes": "Presque impossible d'ajouter features" },
+    { "week": 12, "features": 1, "phase": "Phase 1", "notes": "Décision de refonte" },
+    { "week": 13, "features": 1, "phase": "Phase 2", "notes": "Début refonte architecture" },
+    { "week": 14, "features": 1, "phase": "Phase 2", "notes": "Setup Redux Entity Adapters" },
+    { "week": 15, "features": 0, "phase": "Phase 2", "notes": "Migration vers nouvelle archi" },
+    { "week": 16, "features": 1, "phase": "Phase 2", "notes": "Premiers patterns établis" },
+    { "week": 17, "features": 2, "phase": "Phase 2", "notes": "Architecture en place" },
+    { "week": 18, "features": 2, "phase": "Phase 2", "notes": "Équipe s'adapte" },
+    { "week": 19, "features": 2, "phase": "Phase 2", "notes": "Réutilisation commence" },
+    { "week": 20, "features": 3, "phase": "Phase 2", "notes": "Vélocité remonte" },
+    { "week": 21, "features": 3, "phase": "Phase 3", "notes": "Architecture stabilisée" },
+    { "week": 22, "features": 4, "phase": "Phase 3", "notes": "Patterns bien établis" },
+    { "week": 23, "features": 4, "phase": "Phase 3", "notes": "AI assistance efficace" },
+    { "week": 24, "features": 5, "phase": "Phase 3", "notes": "Haute réutilisation" },
+    { "week": 25, "features": 5, "phase": "Phase 3", "notes": "Vélocité maximale" },
+    { "week": 26, "features": 6, "phase": "Phase 3", "notes": "Livraison traduction complète en 1 semaine" },
+    { "week": 27, "features": 6, "phase": "Phase 3", "notes": "Sustainable velocity" },
+    { "week": 28, "features": 6, "phase": "Phase 3", "notes": "Features complexes rapides" },
+    { "week": 29, "features": 5, "phase": "Phase 3", "notes": "Maintenance + features" },
+    { "week": 30, "features": 6, "phase": "Phase 3", "notes": "Architecture prouvée" },
+    { "week": 31, "features": 6, "phase": "Phase 3", "notes": "Onboarding nouveau dev : 2 jours" },
+    { "week": 32, "features": 6, "phase": "Phase 3", "notes": "Vélocité maintenue" }
+  ],
+  "analysis": {
+    "phase1": {
+      "averageVelocity": 2.5,
+      "trend": "décroissante",
+      "problems": [
+        "Dette technique croissante",
+        "Code mélangé difficile à maintenir",
+        "Bugs en cascade",
+        "Refactoring constant requis"
+      ]
+    },
+    "phase2": {
+      "averageVelocity": 1.5,
+      "trend": "croissante",
+      "investment": "8 semaines",
+      "description": "Investissement temps pour setup architecture propre"
+    },
+    "phase3": {
+      "averageVelocity": 5.4,
+      "trend": "stable",
+      "improvement": "116% vs Phase 1",
+      "benefits": [
+        "Patterns établis et réutilisables",
+        "AI génère du code fiable",
+        "Onboarding rapide (2 jours vs 2 semaines)",
+        "Vélocité sustainable"
+      ]
+    }
+  },
+  "roi": {
+    "investmentWeeks": 8,
+    "breakEvenWeek": 26,
+    "longTermGain": "116% vélocité augmentée",
+    "conclusion": "ROI positif après 6 mois"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "frontend-mvp-architecture",
+  "version": "1.0.0",
+  "description": "How Scalable Architecture Enables Rapid MVP Iteration - A Product Engineer's Guide",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
+    "@reduxjs/toolkit": "^2.6.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.2",
+    "vite": "^6.0.1",
+    "eslint": "^8.57.0"
+  },
+  "keywords": [
+    "frontend",
+    "architecture",
+    "mvp",
+    "product-engineering",
+    "react",
+    "redux",
+    "scalable",
+    "startup"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
