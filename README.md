@@ -731,10 +731,10 @@ Je cherche des opportunités en tant que **Product Engineer** dans des startups 
 
 ### Contact
 
-- 📧 Email : [votre.email@example.com](mailto:votre.email@example.com)
-- 💼 LinkedIn : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
-- 🐙 GitHub : [@votre-username](https://github.com/votre-username)
-- 🌐 Portfolio : [votre-portfolio.com](https://votre-portfolio.com)
+- 📧 Email : [merebeabiguime@outlook.fr](mailto:merebeabiguime@outlook.fr)
+- 💼 LinkedIn : [www.linkedin.com/in/mérébé-abiguime-96b4842b2](https://www.linkedin.com/in/mérébé-abiguime-96b4842b2)
+- 🐙 GitHub : [@merebeabiguime](https://github.com/merebeabiguime)
+- 🌐 Portfolio : [merebeabiguime.com](https://merebeabiguime.com)
 
 ---
 

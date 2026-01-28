@@ -70,3 +70,6 @@ dist-ssr
 # Temporary files
 *.tmp
 *.temp
+
+#other
+./NEXT_STEPS.md
