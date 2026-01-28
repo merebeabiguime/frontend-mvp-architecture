@@ -316,6 +316,8 @@ const ReviewsDashboard = () => {
 
 ## 📊 Impact Mesurable : Métriques Réelles
 
+> **Note :** Les métriques ci-dessous sont basées sur mon expérience de refonte d'architecture chez Tipntap. Les chiffres sont arrondis mais représentent fidèlement les ordres de grandeur et tendances observés. Données complètes dans [`metrics/`](./metrics/).
+
 ### Métrique 1 : **Time to Feature (TTF)**
 
 Temps pour implémenter une feature complète (API + State + UI)

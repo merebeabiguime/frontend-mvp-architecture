@@ -71,5 +71,5 @@ dist-ssr
 *.tmp
 *.temp
 
-#other
-./NEXT_STEPS.md
+# Internal documentation (not for public repo)
+NEXT_STEPS.md
